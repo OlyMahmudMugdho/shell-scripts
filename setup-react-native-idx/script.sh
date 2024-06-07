@@ -19,7 +19,7 @@ kill_if_running 5555
 kill_if_running 5037
 
 # Remove all files in the current directory
-rm -rf *
+# rm -rf *
 echo "Removed all files in the current directory"
 
 # Extract the last nameserver IP address from /etc/resolv.conf
